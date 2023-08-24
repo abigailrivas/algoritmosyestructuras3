@@ -9,6 +9,8 @@ bin
 *.o
 *.so
 
+Practicas/Practicas1. Tecnicas Algoritmicas/ej1_subset_sum_backtracking.cpp
+
 # Logs and databases #
 ######################
 *.log
