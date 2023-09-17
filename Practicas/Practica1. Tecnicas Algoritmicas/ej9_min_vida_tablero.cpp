@@ -20,7 +20,7 @@ int minVida(int i, int j){
 
     return mem[i][j] = res;
 }
-/*
+
 
 int main() {
     tablero[0][0] = -2;
@@ -36,4 +36,4 @@ int main() {
     int res = minVida(0,0);
     cout << res;
     return 0;
-}*/
+}
